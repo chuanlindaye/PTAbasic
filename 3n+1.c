@@ -17,5 +17,5 @@ int main()
 	}
 	}
 	while(n!=1);
-	printf("%d",n);
+	printf("%d",i);
 }
